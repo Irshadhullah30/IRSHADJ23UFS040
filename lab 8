@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>My First Java Script</title>
+<script src="intro.js"></script>
+</head>
+<body>
+<noscript>
+    <h1>this page requires JavaScript.</h1>
+</noscript>
+
+<h1>
+    <script>
+        document.write("Hello , world!")
+    </script>
+</h1>
+</body>
+
+
+</html>
+
+---------------------------------------------
+js Code;
+
+alert("Hello,word from external script!");
